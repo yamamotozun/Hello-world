@@ -9,5 +9,5 @@ func main() {
 			"message": "Hello world",
 		})
 	})
-	router.Run(":5000")
+	router.Run(":6000")
 }
